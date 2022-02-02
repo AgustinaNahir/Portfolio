@@ -396,6 +396,10 @@ footer p {
     margin: 30px;
 }
 
+/* 
+** Media 
+*/
+
 
 @media screen and (max-width: 768px){
     .header {
